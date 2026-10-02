@@ -1,0 +1,7 @@
+﻿<Solution>
+  <Project Path="DOTween.Modules.csproj" />
+  <Project Path="Sirenix.OdinInspector.Modules.Unity.Addressables.csproj" />
+  <Project Path="DOTweenPro.EditorScripts.csproj" />
+  <Project Path="DOTweenPro.Scripts.csproj" />
+  <Project Path="Sirenix.OdinInspector.Modules.UnityMathematics.csproj" />
+</Solution>
